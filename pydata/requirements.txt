@@ -1,0 +1,16 @@
+pandas==2.0.0
+numpy
+seaborn
+matplotlib
+jupyter
+openpyxl
+pyarrow
+scipy
+missingno
+sklearn
+sympy
+html5lib
+Cython
+catboost
+sqlalchemy
+sparklines
